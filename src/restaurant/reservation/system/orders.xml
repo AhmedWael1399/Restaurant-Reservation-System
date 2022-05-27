@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order>
+        <name>Grilled Chicken</name>
+        <price>75</price>
+        <type>main_course</type>
+    </order>
+    <order>
+        <name>Greek Salade</name>
+        <price>30</price>
+        <type>appetizer</type>
+    </order>
+    <order>
+        <name>Fried Potatos</name>
+        <price>30</price>
+        <type>appetizer</type>
+    </order>
+    <order>
+        <name>Apple Pie</name>
+        <price>50</price>
+        <type>desert</type>
+    </order>
+    <order>
+        <name>Molten Cake</name>
+        <price>60</price>
+        <type>desert</type>
+    </order>
+    <order>
+        <name>Mushroom Soup</name>
+        <price>60</price>
+        <type>appetizer</type>
+    </order>
+    <order>
+        <name>Beef Steak</name>
+        <price>80</price>
+        <type>main_course</type>
+    </order>
+    <order>
+        <name>Main Course of the Day</name>
+        <price>90</price>
+        <type>main_course</type>
+    </order>
+    <order>
+        <name>Desert of the Day</name>
+        <price>55</price>
+        <type>desert</type>
+    </order>
+    <order>
+        <name>Appetizer of the Day</name>
+        <price>40</price>
+        <type>appetizer</type>
+    </order> 
+</orders>

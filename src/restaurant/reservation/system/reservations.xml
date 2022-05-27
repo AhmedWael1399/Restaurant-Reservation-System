@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reservations>
+    <reservation>
+        <reserver> </reserver>
+        <resPrice>0.0</resPrice>
+        <tableId>0</tableId>
+        <food> </food>
+    </reservation>
+    <reservation>
+        <reserver>peter</reserver>
+        <resPrice>241.5</resPrice>
+        <tableId>1</tableId>
+        <food>Main Course of the Day , Greek Salade , Fried Potatos , Molten Cake</food>
+    </reservation>
+</reservations>

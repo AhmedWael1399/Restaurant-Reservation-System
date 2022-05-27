@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <name>Adam Smith</name>
+        <role>Manager</role>
+        <username>adam</username>
+        <password>adam_manager</password>
+    </user>
+    <user>
+        <name>John Doe</name>
+        <role>Client</role>
+        <username>john</username>
+        <password>john_doe</password>
+    </user>
+    <user>
+        <name>Brian Johnes</name>
+        <role>Client</role>
+        <username>brian</username>
+        <password>mdir@admj%ar5qX2</password>
+    </user>
+    <user>
+        <name>George Robben</name>
+        <role>Waiter</role>
+        <username>george</username>
+        <password>k6987_#LpQ</password>
+    </user>
+    <user>
+        <name>Tomas Hobbens</name>
+        <role>Cooker</role>
+        <username>hobbens_tom</username>
+        <password>cooker_pass</password>
+    </user>
+    <user>
+        <name>Sam Welbeck</name>
+        <role>Waiter</role>
+        <username>welber</username>
+        <password>555</password>
+    </user>
+    <user>
+        <name>Jack Moreno</name>
+        <role>Cooker</role>
+        <username>jack</username>
+        <password>jack_pass</password>
+    </user>
+    <user>
+        <name>Tammy Willy</name>
+        <role>Client</role>
+        <username>tammy</username>
+        <password>12345</password>
+    </user>
+    <user>
+        <name>peter</name>
+        <role>Waiter</role>
+        <username>peter_jack</username>
+        <password>asd</password>
+    </user>
+</users>
